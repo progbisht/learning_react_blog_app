@@ -1,6 +1,6 @@
 # ReactJs Learning Project
 
-Description:
+## Description:
 This is a learning project in which I have learnt and implemented: 
 1. React Components
 2. Props and Props Drilling
