@@ -8,5 +8,4 @@ This is a learning project in which I have learned and implemented:
 4. Fetch API and Axios
 5. Custom Hooks
 
-This app can be accessed using the link
-https://progbisht.github.io/learning_react_blog_app
+This app can be accessed using the link - https://progbisht.github.io/learning_react_blog_app
