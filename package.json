@@ -1,7 +1,7 @@
 {
   "name": "miniproject",
   "version": "0.1.0",
-  "homepage": "https://progbisht.github.io/",
+  "homepage": "https://progbisht.github.io/learning_react_blog_app",
   "private": true,
   "dependencies": {
     "axios": "^1.6.2",
